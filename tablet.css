@@ -1,0 +1,72 @@
+.top-blogs{
+    flex-direction: column;
+}
+.main-blogs{
+    width: 100%;
+}
+.LogButton i{
+    display: block;
+}
+.LogButton .signupBtn , .LogButton .LoginBtn {
+    display: none;
+}
+.logoAndList ul{
+    display: none;
+}
+header h2{
+    font-size: xx-large;
+}
+.textContaner{
+    width: 80%;
+    flex-direction: column;
+    height: 45vh;
+
+}
+.contentText{
+    width: 100%;
+
+}
+.EmailInputBar{
+    width: 100%;
+    padding: 0px;
+}
+.lastestBlogsContaner{
+    width: 90%;
+    margin: auto;
+
+}
+.blogsContaner{
+    margin: auto;
+}
+.blog{
+    width: 45%;
+}
+.offersContaner p , .offersContaner h2{
+    width: 80%;
+}
+.footerContaner{
+    flex-direction: column;
+    width: 100%;
+}
+.logoAndBar{
+    width: 80%;
+    margin: auto;
+    padding-block: 30px;
+}
+.listest{
+    display: flex;
+    justify-content: space-around;
+    width: 50%;
+}
+.logoAndBar input{
+    width: 60%;
+}
+.logoAndBar p{
+    width: 100%;
+}
+.listest{
+    width: 80%;
+    margin: auto;
+    display: flex;
+    justify-content: space-between;
+}
